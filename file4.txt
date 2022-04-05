@@ -1,1 +1,2 @@
-heloo this is lie 4
+heloo this is line 4
+Now we are learning  how to commit a file
